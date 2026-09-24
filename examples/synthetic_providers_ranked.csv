@@ -1,0 +1,15 @@
+rank,provider_id,name,rating,review_count,prior_mean,shrunk_rating,quality,evidence,service_radius_km,lat,lon
+1,PRV-07,Synthetic Provider 07,4.95,42,4.458,4.791,89.6,solid,80.0,-0.13187,-0.077
+2,PRV-02,Synthetic Provider 02,4.8,400,4.458,4.784,89.2,solid,40.0,-0.01145,-0.27726
+3,PRV-03,Synthetic Provider 03,4.9,14,4.458,4.64,82.0,thin,60.0,-0.00316,-0.2954
+4,PRV-04,Synthetic Provider 04,4.6,160,4.458,4.584,79.2,solid,60.0,0.09206,0.22548
+5,PRV-13,Synthetic Provider 13,4.6,32,4.458,4.546,77.3,solid,40.0,-0.06442,0.00873
+6,PRV-01,Synthetic Provider 01,5.0,3,4.458,4.529,76.5,thin,40.0,0.05217,0.12952
+7,PRV-09,Synthetic Provider 09,4.7,7,4.458,4.521,76.1,thin,40.0,0.04836,-0.05032
+8,PRV-14,Synthetic Provider 14,4.7,4,4.458,4.499,74.9,thin,80.0,-0.31806,0.20454
+9,PRV-11,Synthetic Provider 11,4.5,41,4.458,4.486,74.3,solid,80.0,0.09798,0.13594
+10,PRV-08,Synthetic Provider 08,,0,4.458,4.458,72.9,none,80.0,-0.2966,-0.02073
+11,PRV-10,Synthetic Provider 10,4.4,310,4.458,4.404,70.2,solid,80.0,0.01926,0.05704
+12,PRV-12,Synthetic Provider 12,4.3,65,4.458,4.337,66.9,solid,40.0,0.07953,-0.04757
+13,PRV-05,Synthetic Provider 05,4.2,65,4.458,4.261,63.0,solid,60.0,-0.03586,0.00533
+14,PRV-06,Synthetic Provider 06,3.8,230,4.458,3.853,42.6,solid,60.0,-0.02882,-0.08281

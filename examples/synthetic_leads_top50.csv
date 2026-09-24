@@ -1,0 +1,51 @@
+rank,property_id,address,lat,lon,score,hail_pts,roof_pts,value_pts,occupancy_pts,hail_confidence,max_hail_in,worst_event,last_severe_event,severe_events,damaging_events,extreme_events,pre_roof_severe_events,roof_age,roof_age_source,year_built,assessed_value,owner_occupied,property_type,outreach_channel,provider_id,provider_quality
+1,SYN-00300,1110 8th Ave,0.021747,-0.000426,84.7,38.2,25.0,6.5,15.0,84.9,2.26,EV-20220708,2025-06-04,4,3,2,0,61,year_built,1964,201700,True,single_family,door_knock,PRV-07,89.6
+2,SYN-00161,609 Sunflower St,0.027361,-0.008682,84.2,38.2,25.0,6.0,15.0,84.9,2.26,EV-20220708,2025-06-04,4,3,2,0,39,year_built,1986,182600,True,single_family,door_knock,PRV-07,89.6
+3,SYN-00160,607 Sunflower St,0.027348,-0.009399,83.8,38.2,25.0,5.6,15.0,84.9,2.26,EV-20220708,2025-06-04,4,3,2,0,50,year_built,1975,170700,True,single_family,door_knock,PRV-07,89.6
+4,SYN-00165,709 Sunflower St,0.027391,-0.002937,83.6,38.2,25.0,5.4,15.0,84.9,2.26,EV-20220708,2025-06-04,4,3,2,0,45,year_built,1980,164100,True,single_family,door_knock,PRV-07,89.6
+5,SYN-00266,711 Buffalo Grass St,0.022882,-0.002218,83.4,38.2,25.0,5.2,15.0,84.9,2.26,EV-20220708,2025-06-04,4,3,2,0,55,year_built,1970,155100,True,single_family,door_knock,PRV-07,89.6
+6,SYN-00658,1115 Yucca St,0.00491,0.022468,83.2,34.7,25.0,8.5,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,71,year_built,1954,291100,True,single_family,door_knock,PRV-07,89.6
+7,SYN-00164,703 Sunflower St,0.02731,-0.005048,83.1,38.2,25.0,4.9,15.0,84.9,2.26,EV-20220708,2025-06-04,4,3,2,0,59,year_built,1966,146800,True,single_family,door_knock,PRV-07,89.6
+8,SYN-00105,1730 N Rural Rd 3,0.037512,0.023358,82.5,31.8,25.0,10.7,15.0,70.7,2.59,EV-20220708,2025-06-04,4,2,1,0,30,year_built,1995,419500,True,single_family,door_knock,PRV-07,89.6
+9,SYN-00122,1897 N Rural Rd 3,0.033975,0.029993,82.5,31.8,25.0,10.7,15.0,70.7,2.59,EV-20220708,2025-06-04,4,2,1,0,33,year_built,1992,417400,True,single_family,door_knock,PRV-07,89.6
+10,SYN-00223,1207 12th Ave,0.024768,0.023706,82.2,34.7,25.0,7.5,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,52,year_built,1973,244200,True,single_family,door_knock,PRV-07,89.6
+11,SYN-00562,815 Windmill St,0.009279,0.005096,82.2,34.7,25.0,7.5,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,87,year_built,1938,244400,True,single_family,door_knock,PRV-07,89.6
+12,SYN-00295,1204 Buffalo Grass St,0.022178,0.024629,82.0,34.7,25.0,7.3,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,54,year_built,1971,233900,True,single_family,door_knock,PRV-07,89.6
+13,SYN-00169,909 Sunflower St,0.027364,0.008708,81.9,34.7,25.0,7.2,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,58,year_built,1967,229600,True,single_family,door_knock,PRV-07,89.6
+14,SYN-00103,1709 N Rural Rd 3,0.037822,0.022359,81.7,31.8,25.0,9.9,15.0,70.7,2.59,EV-20220708,2025-06-04,4,2,1,0,39,year_built,1986,368100,True,single_family,door_knock,PRV-07,89.6
+15,SYN-00264,613 Buffalo Grass St,0.022879,-0.007233,81.5,38.2,25.0,3.3,15.0,84.9,2.26,EV-20220708,2025-06-04,4,3,2,0,41,year_built,1984,108100,True,single_family,door_knock,PRV-07,89.6
+16,SYN-00321,1106 12th Ave,0.020237,0.022758,81.4,34.7,25.0,6.7,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,75,year_built,1950,210000,True,single_family,door_knock,PRV-07,89.6
+17,SYN-00188,610 Sunflower St,0.026622,-0.007946,81.4,38.2,25.0,3.2,15.0,84.9,2.26,EV-20220708,2025-06-04,4,3,2,0,53,year_built,1972,106200,True,single_family,door_knock,PRV-07,89.6
+18,SYN-00494,914 Harvest St,0.013126,0.010889,81.3,34.7,25.0,6.6,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,60,year_built,1965,207200,True,single_family,door_knock,PRV-07,89.6
+19,SYN-00346,1103 12th Ave,0.01882,0.023588,81.2,34.7,25.0,6.5,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,62,year_built,1963,203300,True,single_family,door_knock,PRV-07,89.6
+20,SYN-00640,802 10th Ave,0.005283,0.011226,81.2,34.7,25.0,6.5,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,66,year_built,1959,201300,True,single_family,door_knock,PRV-07,89.6
+21,SYN-00293,1106 Buffalo Grass St,0.022137,0.019586,81.1,34.7,25.0,6.4,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,60,year_built,1965,198400,True,single_family,door_knock,PRV-07,89.6
+22,SYN-00770,1211 Cottonwood St,0.000352,0.026797,81.1,34.7,25.0,6.4,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,76,year_built,1949,199000,True,single_family,door_knock,PRV-07,89.6
+23,SYN-00374,1303 Prairie Rose St,0.018349,0.029716,81.0,34.7,25.0,6.3,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,48,year_built,1977,194300,True,single_family,door_knock,PRV-07,89.6
+24,SYN-00685,1206 Yucca St,0.004204,0.025298,81.0,34.7,25.0,6.3,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,68,year_built,1957,194900,True,single_family,door_knock,PRV-07,89.6
+25,SYN-00728,705 11th Ave,0.001413,0.017846,81.0,34.7,25.0,6.3,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,83,year_built,1942,192600,True,single_family,door_knock,PRV-07,89.6
+26,SYN-00497,1204 Harvest St,0.013146,0.024586,80.9,34.7,25.0,6.2,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,86,year_built,1939,191200,True,single_family,door_knock,PRV-07,89.6
+27,SYN-00322,1107 12th Ave,0.020321,0.023627,80.7,34.7,25.0,6.0,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,64,year_built,1961,182800,True,single_family,door_knock,PRV-07,89.6
+28,SYN-00221,1207 10th Ave,0.02472,0.012072,80.4,34.7,25.0,5.7,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,60,year_built,1965,171600,True,single_family,door_knock,PRV-07,89.6
+29,SYN-00194,1202 Sunflower St,0.026776,0.023928,80.2,34.7,25.0,5.5,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,52,year_built,1973,167000,True,single_family,door_knock,PRV-07,89.6
+30,SYN-00491,808 Harvest St,0.013138,0.002969,80.2,34.7,25.0,5.5,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,54,year_built,1971,165100,True,single_family,door_knock,PRV-07,89.6
+31,SYN-00388,810 Prairie Rose St,0.017633,0.003604,80.1,34.7,25.0,5.4,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,58,year_built,1967,163800,True,single_family,door_knock,PRV-07,89.6
+32,SYN-00394,1014 Prairie Rose St,0.017684,0.016721,80.1,34.7,25.0,5.4,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,72,year_built,1953,162000,True,single_family,door_knock,PRV-07,89.6
+33,SYN-00329,1105 7th Ave,0.019549,-0.005328,80.1,31.4,25.0,8.7,15.0,69.8,2.53,EV-20220708,2025-06-04,4,2,1,0,56,year_built,1969,303700,True,single_family,door_knock,PRV-07,89.6
+34,SYN-00274,1107 Buffalo Grass St,0.022799,0.019525,80.0,34.7,25.0,5.3,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,30,year_built,1995,158600,True,single_family,door_knock,PRV-07,89.6
+35,SYN-00390,908 Prairie Rose St,0.01764,0.00868,79.9,34.7,25.0,5.2,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,68,year_built,1957,157500,True,single_family,door_knock,PRV-07,89.6
+36,SYN-00539,902 9th Ave,0.009746,0.005366,79.9,34.7,25.0,5.2,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,64,year_built,1961,156400,True,single_family,door_knock,PRV-07,89.6
+37,SYN-00589,1006 Windmill St,0.00868,0.013776,79.7,34.7,25.0,5.0,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,80,year_built,1945,150100,True,single_family,door_knock,PRV-07,89.6
+38,SYN-00604,810 13th Ave,0.008221,0.028566,79.7,34.7,25.0,5.0,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,68,year_built,1957,151300,True,single_family,door_knock,PRV-07,89.6
+39,SYN-00196,1212 Sunflower St,0.026621,0.027549,79.6,34.7,25.0,4.9,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,60,year_built,1965,145600,True,single_family,door_knock,PRV-07,89.6
+40,SYN-00760,909 Cottonwood St,0.000365,0.008709,79.5,34.7,25.0,4.8,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,91,year_built,1934,143400,True,single_family,door_knock,PRV-07,89.6
+41,SYN-00273,1015 Buffalo Grass St,0.022794,0.016656,79.4,34.7,25.0,4.7,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,55,year_built,1970,141300,True,single_family,door_knock,PRV-07,89.6
+42,SYN-00398,1212 Prairie Rose St,0.017647,0.027563,79.4,34.7,25.0,4.7,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,75,year_built,1950,141500,True,single_family,door_knock,PRV-07,89.6
+43,SYN-00740,702 13th Ave,0.000715,0.028568,79.3,34.7,25.0,4.6,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,69,year_built,1956,138400,True,single_family,door_knock,PRV-07,89.6
+44,SYN-00437,1005 13th Ave,0.014994,0.029382,79.2,34.7,25.0,4.5,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,51,year_built,1974,136700,True,single_family,door_knock,PRV-07,89.6
+45,SYN-00538,903 8th Ave,0.009785,0.00046,79.1,34.7,25.0,4.4,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,75,year_built,1950,133700,True,single_family,door_knock,PRV-07,89.6
+46,SYN-00309,1109 14th Ave,0.020996,0.035183,79.1,31.8,25.0,7.3,15.0,70.7,2.59,EV-20220708,2025-06-04,4,2,1,0,56,year_built,1969,235200,True,single_family,door_knock,PRV-07,89.6
+47,SYN-00202,1211 12th Ave,0.026194,0.023628,79.0,34.7,25.0,4.3,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,40,year_built,1985,129200,True,single_family,door_knock,PRV-07,89.6
+48,SYN-00708,708 9th Ave,0.003012,0.005362,79.0,34.7,25.0,4.3,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,92,year_built,1933,129800,True,single_family,door_knock,PRV-07,89.6
+49,SYN-00771,1213 Cottonwood St,0.000284,0.027576,79.0,34.7,25.0,4.3,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,64,year_built,1961,130800,True,single_family,door_knock,PRV-07,89.6
+50,SYN-00448,1003 13th Ave,0.014287,0.029493,78.9,34.7,25.0,4.2,15.0,77.1,2.75,EV-20220708,2025-06-04,5,2,1,0,52,year_built,1973,128300,True,single_family,door_knock,PRV-07,89.6

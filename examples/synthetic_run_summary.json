@@ -1,0 +1,133 @@
+{
+  "synthetic_data": true,
+  "source": "Synthetic storm season (demo)",
+  "as_of": "2025-12-31",
+  "missing_storm_days": [],
+  "events": [
+    {
+      "event_id": "EV-20210518",
+      "days": [
+        "2021-05-18"
+      ],
+      "peak_in": 1.75,
+      "footprint_km2": {
+        "1.00in": 86.2,
+        "1.50in": 12.3
+      }
+    },
+    {
+      "event_id": "EV-20210721",
+      "days": [
+        "2021-07-21"
+      ],
+      "peak_in": 1.25,
+      "footprint_km2": {
+        "1.00in": 34.5
+      }
+    },
+    {
+      "event_id": "EV-20220708",
+      "days": [
+        "2022-07-08",
+        "2022-07-09"
+      ],
+      "peak_in": 2.75,
+      "footprint_km2": {
+        "1.00in": 220.3,
+        "1.50in": 98.5,
+        "2.00in": 23.4
+      }
+    },
+    {
+      "event_id": "EV-20230526",
+      "days": [
+        "2023-05-26"
+      ],
+      "peak_in": 1.5,
+      "footprint_km2": {
+        "1.00in": 61.5,
+        "1.50in": 1.2
+      }
+    },
+    {
+      "event_id": "EV-20240703",
+      "days": [
+        "2024-07-03"
+      ],
+      "peak_in": 2.25,
+      "footprint_km2": {
+        "1.00in": 167.4,
+        "1.50in": 50.5,
+        "2.00in": 6.2
+      }
+    },
+    {
+      "event_id": "EV-20240827",
+      "days": [
+        "2024-08-27"
+      ],
+      "peak_in": 1.1,
+      "footprint_km2": {
+        "1.00in": 11.1
+      }
+    },
+    {
+      "event_id": "EV-20250604",
+      "days": [
+        "2025-06-04"
+      ],
+      "peak_in": 2.0,
+      "footprint_km2": {
+        "1.00in": 119.4,
+        "1.50in": 29.5,
+        "2.00in": 1.2
+      }
+    },
+    {
+      "event_id": "EV-20250717",
+      "days": [
+        "2025-07-17"
+      ],
+      "peak_in": 0.9,
+      "footprint_km2": {}
+    }
+  ],
+  "max_ever_footprint_km2": {
+    "1.00in": 579.8,
+    "1.50in": 162.5,
+    "2.00in": 29.5
+  },
+  "properties": 1500,
+  "properties_ever_hit": {
+    "1.00in": 1461,
+    "1.50in": 1353,
+    "2.00in": 1059
+  },
+  "leads": 1233,
+  "status_counts": {
+    "hail predates current roof": 33,
+    "lead": 1233,
+    "no qualifying hail": 37,
+    "type commercial not targeted": 68,
+    "type multi_family not targeted": 129
+  },
+  "providers": 14,
+  "parameters": {
+    "tiers_in": [
+      1.0,
+      1.5,
+      2.0
+    ],
+    "storm_day_min_in": 0.75,
+    "event_gap_days": 1,
+    "neighborhood_cells": 1,
+    "min_lead_hail_in": 1.0,
+    "lead_weights": {
+      "hail": 0.45,
+      "roof_age": 0.25,
+      "value": 0.15,
+      "occupancy": 0.15
+    },
+    "provider_prior_weight": 20.0
+  }
+}
